@@ -16,4 +16,4 @@ podman-compose up -d
 <!-- if use docker -->
 docker-compose up -d
 ````
-##3. Install pgAdmin4 to easily manage database. 
+## 3. Install pgAdmin4 to easily manage database. 
