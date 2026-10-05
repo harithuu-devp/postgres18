@@ -1,4 +1,4 @@
-# PostgreSQL 18 Container for Local Development
+# Custom PostgreSQL 18 Container for Local Development
 
 ## 1. Clone repo
 ```
